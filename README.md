@@ -1,132 +1,154 @@
-# Kushagra Thakur
+# 👋 Hi, I'm **Kushagra Thakur**
 
-**Senior Product Manager – Industrial AI & Predictive Maintenance**  
+### **Senior Product Manager – Industrial AI, Vibration Analytics & Predictive Maintenance**  
 Building AI systems that keep the world’s machines running smarter, longer, and cleaner.
+
+> ⚠️ **Identity Note:**  
+> There is a singer with the same name.  
+> **I am NOT the singer** — I work in Industrial AI, APM, vibration analysis, and machine health.
 
 ---
 
-<!-- Badges – update `USERNAME` if needed -->
+<!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=kushagrathakur&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushagra%20Thakur-blue?logo=linkedin)](https://www.linkedin.com/in/kushagrathakur)
 [![Website](https://img.shields.io/badge/Website-kushagrathakur.us-informational)](https://kushagrathakur.us)
-[![Medium](https://img.shields.io/badge/Medium-@kushagrathakur11-black?logo=medium)](https://medium.com/@kushagrathakur11)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Kushagra%20Thakur-4285F4?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=O0kvVlsAAAAJ)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Kushagra%20Thakur-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Kushagra-Thakur)
+[![Medium](https://img.shields.io/badge/Medium-kushagrathakur--atl-black?logo=medium)](https://kushagrathakur-atl.medium.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Scholar%20Profile-4285F4?logo=google-scholar)](https://scholar.google.com/citations?user=O0kvVlsAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Kushagra-Thakur)
 
 ---
 
-## 👋 About Me
+## 🌍 About Me
 
-I’m **Kushagra Thakur**, a Product Manager and former research scientist with **14+ years in industrial AI, Asset Performance Management (APM), and vibration-based condition monitoring**.
+I’m **Kushagra Thakur**, a Senior Product Manager and former research scientist with **14+ years of experience in Industrial AI, Asset Performance Management (APM), and vibration-based condition monitoring**.
 
-I work at the intersection of:
+My professional focus spans:
 
 - **Industrial AI & Machine Learning**
 - **Vibration analytics & reliability engineering**
 - **Cloud-native APM platforms & edge intelligence**
+- **Wireless sensor ecosystems (LoRaWAN, BLE, industrial IoT)**
 
-Over the years I’ve:
-
-- Led APM and Industrial AI offerings at **Honeywell**, working with customers across oil & gas, mining, chemicals, and logistics.
-- Built and productized solutions for **vibration monitoring, anomaly detection, failure prediction, and Remaining Useful Life (RUL)**.
-- Filed multiple **US patents** in AI, knowledge graphs, and security analytics (one of them has **190+ citations**).
-- Worked hands-on with customers like **Aker BP, Shell, Reliance, Freeport-McMoRan, Cardinal Health, Adidas, and Gordon Food Services** to turn algorithms into real operational value.
-
-My long-term mission:  
-> **Use industrial AI to extend asset life, reduce waste, and “fix this planet” one machine at a time.**
+I’ve helped deliver APM and PdM solutions across oil & gas, mining, chemicals, logistics, and distribution, working hands-on with global reliability and maintenance teams.
 
 ---
 
-## 🔭 Current Focus Areas
+## 🚀 What I Do
 
-- **Industrial Vibration & Condition Monitoring**
-  - FFT, envelope demodulation, spectral features
-  - Wireless sensors (LoRaWAN, BLE) and edge devices
-  - Thresholding, diagnostics, and RUL estimation
+### 🔹 **Industrial Vibration & Condition Monitoring**
+- FFT, envelope demodulation, harmonic analysis  
+- Multi-sensor health modeling (vibration + process + energy)  
+- Wireless sensor deployments & edge diagnostics  
+- Mechanical fault detection & RUL estimation  
 
-- **Asset Performance Management (APM)**
-  - Unifying process data, mechanical health, work orders, and energy KPIs
-  - Cloud-native APM (SaaS) + on-prem deployments for critical facilities
+### 🔹 **Asset Performance Management (APM)**
+- Cloud APM strategy, architecture & roadmap  
+- On-prem APM deployments for critical facilities  
+- Integrating process + mechanical + CMMS + energy data  
+- Failure prediction and automated insights at scale  
 
-- **Applied AI / ML**
-  - Time-series modeling and anomaly detection
-  - Causal reasoning and copilot-style assistants for reliability engineers
-  - Knowledge graphs for industrial systems
+### 🔹 **Applied AI / ML**
+- Time-series anomaly detection  
+- AI copilots for reliability engineers  
+- Knowledge graph modeling for industrial systems  
+- Pattern mining for multi-asset behavior  
 
-- **Developer & Research Tools**
-  - Python-based vibration toolkits
-  - Small testbeds at home (pumps, motors, gearboxes) for experimentation
-  - Agents / LLM tools for research workflows
-
----
-
-
-## ✍️ Writing & Talks
-
-I regularly share ideas on:
-
-- **Industrial AI & predictive maintenance**
-- **Practical vibration analytics**
-- **Designing APM products that reliability engineers actually love**
-- **Innovation with purpose – using AI to reduce waste and emissions**
-
-You can find my content here:
-
-- 🌐 Articles & hub: [kushagrathakur.us](https://kushagrathakur.us)  
-- ✍️ Deep dives & essays: [Medium – @kushagrathakur11](https://medium.com/@kushagrathakur11)  
-- 💼 Industry & product insights: [LinkedIn](https://www.linkedin.com/in/kushagrathakur)
-- 🤖 AI & ML resources: [Machine Learning Today](https://www.machinelearning.today/)
-
-I’ve also given webinars and talks with communities like **ReliabilityWeb** and reliability committees in logistics / distribution – once recordings are public, I’ll link them here.
+### 🔹 **Prototyping & Research**
+- Vibration lab (motors, pumps, gearboxes)  
+- Python-based vibration simulation & analysis tools  
+- Sensor and FFT experimentation across asset types  
 
 ---
 
-## 🧰 Tech & Tools I Work With
+## 🧪 Patents & Research
 
-**Languages & Data**
-- Python (NumPy, SciPy, pandas, scikit-learn)
-- SQL, basic PySpark
-- Jupyter / notebooks for exploration
+I hold several **US patents** in industrial AI and security analytics, including:
 
-**Signal & Vibration**
-- Signal processing toolkits (FFT, envelope, filters)
-- ISO-based vibration severity metrics
-- Time-series feature engineering
+- **US11677576B2 — AI Operational Intelligence / Knowledge Graphs**
+- **US10379512B2 — Intelligent Building Analytics**
+- **US9661010B2 — Security Behavior Anomaly Detection**
+- **US10311401B2 — Machine Health Analysis**
+- **US20240273398A1 — Industrial Signal & Sensor Analytics**
 
-**Platforms**
-- Azure & cloud-native architectures  
-- Historians, message buses, and IoT platforms  
-- Honeywell Forge APM & on-prem APM systems
+📄 All patents:  
+https://patents.justia.com/inventor/kushagra-thakur
 
-**AI / MLOps**
-- Traditional ML for classification / regression
-- Anomaly detection & RUL estimation
-- LLMs for research assistance and copilots
+My work has 190+ citations and has been referenced by AI, cybersecurity, and industrial automation teams worldwide.
 
 ---
 
-## 🤝 How I Like to Collaborate
+## 🎙️ Talks, Webinars & Industry Contributions
 
-I’m especially interested in collaborations around:
+I frequently speak about:
 
-- New sensing hardware (wireless vibration, acoustic, current sensors)
-- Research + whitepapers that combine **domain expertise + AI** in a grounded, realistic way
-- Building educational content / tooling to make vibration analytics more accessible
+- **AI in predictive maintenance**  
+- **Modern vibration analytics**  
+- **Industrial IoT & reliability transformation**  
+- **Designing APM products reliability engineers love**  
 
-If you’re working on something in this space, I’d love to hear from you.
+Featured in:
+
+- **MHI – Demystifying AI in PdM**  
+- **ReliabilityWeb – AI for Condition Monitoring**  
+- **Stanford CIFE – AI & AEC Panel**  
+
+🎥 YouTube (PdM Webinar):  
+https://www.youtube.com/watch?v=hYFVAl3wjmw
 
 ---
 
-## 📫 Get in Touch
+## 🧰 Tools & Technologies
 
-- 🌐 Website: [kushagrathakur.us](https://kushagrathakur.us)  
-- 💼 LinkedIn: [linkedin.com/in/kushagrathakur](https://www.linkedin.com/in/kushagrathakur)  
-- ✍️ Medium: [@kushagrathakur11](https://medium.com/@kushagrathakur11)  
-- 💻 GitHub: [github.com/kushagrathakur](https://github.com/kushagrathakur)
-- 📚 Google Scholar: [scholar.google.com/citations?user=O0kvVlsAAAAJ](https://scholar.google.com/citations?hl=en&user=O0kvVlsAAAAJ)
-- 🔬 ResearchGate: [researchgate.net/profile/Kushagra-Thakur](https://www.researchgate.net/profile/Kushagra-Thakur)
-- 🤖 Machine Learning Today: [machinelearning.today](https://www.machinelearning.today/)
-- 🔗 Linktree: [linktr.ee/kushagrathakur](https://linktr.ee/kushagrathakur)
-- 🏢 Crunchbase: [crunchbase.com/person/kushagra-thakur-c765](https://www.crunchbase.com/person/kushagra-thakur-c765)
+**Languages & Data**  
+- Python (NumPy, SciPy, pandas, scikit-learn)  
+- SQL, PySpark  
+- Jupyter / notebooks  
+
+**Signal & Vibration**  
+- FFT, STFT, filters, demodulation  
+- Cepstrum, envelope, kurtosis  
+- ISO vibration metrics  
+
+**Platforms**  
+- Azure Cloud  
+- Honeywell Forge APM  
+- PI / PHD historians, MQTT, Kafka  
+
+**AI / ML**  
+- Anomaly detection  
+- RUL forecasting  
+- Classical ML + LLM copilots  
+- TensorFlow/PyTorch (light use)  
+
+---
+
+## 🤝 Collaboration Interests
+
+I love collaborating on:
+
+- New sensing hardware  
+- Industrial AI algorithms  
+- Vibration datasets & tooling  
+- Applied reliability engineering  
+- Whitepapers, courses & educational content  
+- AI copilots for machine health  
+
+If you’re building in this space — let’s talk.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Website: https://kushagrathakur.us  
+- 🌐 Website 2: https://machinelearning.today  
+- 💼 LinkedIn: https://www.linkedin.com/in/kushagrathakur  
+- ✍️ Medium: https://kushagrathakur-atl.medium.com  
+- 💻 GitHub: https://github.com/kushagrathakur  
+- 📚 Google Scholar: https://scholar.google.com/citations?user=O0kvVlsAAAAJ  
+- 🔬 ResearchGate: https://www.researchgate.net/profile/Kushagra-Thakur  
+- 🏢 Crunchbase: https://www.crunchbase.com/person/kushagra-thakur-c765  
+- 🎥 Talks (MHI, ReliabilityWeb): See links above  
+- 🎤 Identity clarification: **I am not the singer.**
 
 > _“Be so good they can’t ignore you – and use that excellence to leave a mark that lasts for generations.”_
